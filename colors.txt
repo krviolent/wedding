@@ -1,0 +1,21 @@
+silver
+C0C0C0
+
+Некоторые коды оттенков молочного цвета: 
+#fdfff5, #fdfff6, #fdfff7.
+
+F5F5DC
+
+AF804F
+
+http://www.astro.spbu.ru/staff/afk/Teaching/Help/Colorname.htm
+
+
+круги:
+
+1717593623541 	363435 	fdfff6
+1717593623539	f3e5e6	C0C0C0
+1717603301057 	eac6ca	F5F5DC
+1717593623542	e5f3fe	AF804F
+1717593623538	adb8a8	fdfff5
+1738511159958	878974	fdfff7
